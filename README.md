@@ -1,5 +1,4 @@
-# legislatives_2017_bureaux
-Résultat par bureaux de vote des élections législatives françaises de 2017 (premier tour)
+# Résultat par bureaux de vote des élections législatives françaises de 2017 (premier tour)
 
 Les données proviennent de data.gouv.fr (licence ouverte) : https://www.data.gouv.fr/fr/datasets/elections-legislatives-des-11-et-18-juin-2017-resultats-par-bureaux-de-vote-du-1er-tour/
 
